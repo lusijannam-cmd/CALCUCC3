@@ -20,13 +20,13 @@ public class Main {
 
         switch (choice) {
             case 1:
-                System.out.println("Result: " + (a * b));
+               
                 break;
             case 2:
-                System.out.println("Result: " + (a / b));
+             
                 break;
             case 3:
-                System.out.println("Result: " + (a - b));
+               
                 break;
             default:
                 System.out.println("Invalid choice!");
